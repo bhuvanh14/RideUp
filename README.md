@@ -1,6 +1,6 @@
 # RideUp Project
 
-An online bike parts store built with React and Node.js.
+An online bike parts store with a bike gallery built with React and Node.js.
 
 ## How to Run Locally
 
